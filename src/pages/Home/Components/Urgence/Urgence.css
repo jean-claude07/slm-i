@@ -1,0 +1,23 @@
+
+.jobtrotter .home-enterprises {
+    background-color: #FFFFFF;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 80px;
+}
+.home-enterprises .wrapper {
+    padding: 0;
+}
+.home-presentation .col {
+    padding: 0 20px;
+}
+
+
+
+.col.marge {
+    padding-left: .7936507937%;
+    padding-right: .7936507937%;
+}
+.forme {
+    width: 33.333333333333%;
+}

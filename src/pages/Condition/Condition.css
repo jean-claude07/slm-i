@@ -1,0 +1,25 @@
+#image-condition{
+    background: url('../../assets/images/condition-employeur.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .heading-4{
+     text-transform: uppercase;
+ }
+ .txt_condition{
+     padding: 40px 0;
+ }
+ .style_condition{
+     list-style: none;
+     text-decoration: none;
+ }
+ #image-utilisateur{
+    background: url('../../assets/images/condition-utilisateur.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .content-condition{
+     padding: 10px 0;
+ }

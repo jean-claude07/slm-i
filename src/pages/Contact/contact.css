@@ -1,0 +1,14 @@
+
+#img-contact{
+    background-image: url(../../assets/images/bg_5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+    background-size: cover;
+}
+
+.error-c{
+    text-align: center;
+    color: red;
+    padding: 10px;
+}

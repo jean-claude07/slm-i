@@ -1,0 +1,70 @@
+.error-field{
+   
+    margin: 5px;
+    color: red;
+    /* animation-name: dongle;
+    -webkit-animation-name: dongle; */
+
+}
+
+#required{
+    display: none;
+    transform-origin: 50% 50%;
+}
+
+@keyframes dongle{
+    0%{
+        -webkit-transform: translate(0px, 0px);
+        transform: translate(0px, 0px);
+    }
+
+    10%{
+        -webkit-transform: translate(-10px, 0px);
+        transform: translate(-10px, 0px);
+    }
+
+    20%{
+        -webkit-transform: translate(10px, 0px);
+        transform: translate(10px, 0px);
+    }
+
+    30%{
+        -webkit-transform: translate(-10px, 0px);
+        transform: translate(-10px, 0px);
+    }
+
+    40%{
+        -webkit-transform: translate(10px, 0px);
+        transform: translate(10px, 0px);
+    }
+
+    50%{
+        -webkit-transform: translate(-20px, 0px);
+        transform: translate(-10px, 0px);
+    }
+
+    60%{
+        -webkit-transform: translate(20px, 0px);
+        transform: translate(10px, 0px);
+    }
+
+    70%{
+        -webkit-transform: translate(-10px, 0px);
+        transform: translate(-10px, 0px);
+    }
+
+    80%{
+        -webkit-transform: translate(10px, 0px);
+        transform: translate(10px, 0px);
+    }
+
+    90%{
+        -webkit-transform: translate(-10px, 0px);
+        transform: translate(-10px, 0px);
+    }
+
+    100%{
+        -webkit-transform: translate(0px, 0px);
+        transform: translate(0px, 0px);
+    }
+}

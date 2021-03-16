@@ -1,0 +1,6 @@
+#image-about{
+   background: url('../../../../assets/images/about.jpg');
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}

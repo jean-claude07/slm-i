@@ -1,0 +1,29 @@
+.chauffeur{
+    margin: 30px;
+    position: relative;
+}
+#center-button{
+    display: flex;
+    justify-content: center;
+}
+.contenu{
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+}
+.accueil-lien{
+    margin-right: 7px;
+}
+.titre-chauffeur{
+    text-align: center;
+}
+.accueil-font{
+    margin-right: 10px;
+}
+
+.message{
+    text-align: center;
+    color: red;
+    padding: 10px;
+    padding-bottom: 15px;
+}
