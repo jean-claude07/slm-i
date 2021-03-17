@@ -218,7 +218,7 @@ class EspaceChauffeur extends Component {
 													<div className="col-md-6">
 														<div className="form-group">
 															<label className="label" for="subject">Telephone</label>
-															<Field type="number" className="form-control" name="telephone" min="10" max="15" id="subject" placeholder="Telephone" />
+															<Field type="number" className="form-control" name="telephone" id="subject" placeholder="Telephone" />
 															<ErrorField errors={errors} touched={touched} row="telephone"/>
 														</div>
 													</div>
