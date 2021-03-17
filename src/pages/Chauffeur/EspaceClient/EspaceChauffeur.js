@@ -199,7 +199,7 @@ class EspaceChauffeur extends Component {
 										}}
 										>
 										{({errors , touched}) => (
-											<Form noValidate className="contactForm">
+											<Form className="contactForm">
 												<div className="row">
 												<div className="col-md-12">
 														<div className="form-group">
